@@ -18,7 +18,7 @@
   *
   */
 #include <linux/init.h>
-#include <linux/netlink_k.c>
+#include <linux/netlink_k.h>
 #include <linux/module.h>
 #include <linux/ioctl.h>
 #include <linux/fs.h>
