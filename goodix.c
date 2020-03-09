@@ -17,6 +17,7 @@
   * GNU General Public License for more details.
   *
   */
+#include <net/genetlink.h>
 #include <linux/init.h>
 #include <linux/module.h>
 #include <linux/ioctl.h>
