@@ -18,7 +18,6 @@
   *
   */
 #include <linux/init.h>
-#include <linux/blob/master/drivers/staging/gdm724x/netlink_k.h>
 #include <linux/module.h>
 #include <linux/ioctl.h>
 #include <linux/fs.h>
